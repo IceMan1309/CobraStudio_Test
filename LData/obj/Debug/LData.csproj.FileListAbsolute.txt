@@ -1,0 +1,9 @@
+D:\BKEFS\LData\bin\Debug\LData.dll
+D:\BKEFS\LData\bin\Debug\LData.pdb
+D:\BKEFS\LData\bin\Debug\LEntidad.dll
+D:\BKEFS\LData\bin\Debug\LEntidad.pdb
+D:\BKEFS\LData\obj\Debug\LData.csprojAssemblyReference.cache
+D:\BKEFS\LData\obj\Debug\LData.csproj.CoreCompileInputs.cache
+D:\BKEFS\LData\obj\Debug\LData.csproj.CopyComplete
+D:\BKEFS\LData\obj\Debug\LData.dll
+D:\BKEFS\LData\obj\Debug\LData.pdb

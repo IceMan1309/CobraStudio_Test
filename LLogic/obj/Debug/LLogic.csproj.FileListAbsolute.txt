@@ -1,0 +1,11 @@
+D:\BKEFS\LLogic\bin\Debug\LLogic.dll
+D:\BKEFS\LLogic\bin\Debug\LLogic.pdb
+D:\BKEFS\LLogic\bin\Debug\LData.dll
+D:\BKEFS\LLogic\bin\Debug\LEntidad.dll
+D:\BKEFS\LLogic\bin\Debug\LData.pdb
+D:\BKEFS\LLogic\bin\Debug\LEntidad.pdb
+D:\BKEFS\LLogic\obj\Debug\LLogic.csprojAssemblyReference.cache
+D:\BKEFS\LLogic\obj\Debug\LLogic.csproj.CoreCompileInputs.cache
+D:\BKEFS\LLogic\obj\Debug\LLogic.csproj.CopyComplete
+D:\BKEFS\LLogic\obj\Debug\LLogic.dll
+D:\BKEFS\LLogic\obj\Debug\LLogic.pdb

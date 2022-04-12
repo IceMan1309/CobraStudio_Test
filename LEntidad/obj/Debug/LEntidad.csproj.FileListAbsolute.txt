@@ -1,0 +1,6 @@
+D:\BKEFS\LEntidad\bin\Debug\LEntidad.dll
+D:\BKEFS\LEntidad\bin\Debug\LEntidad.pdb
+D:\BKEFS\LEntidad\obj\Debug\LEntidad.csprojAssemblyReference.cache
+D:\BKEFS\LEntidad\obj\Debug\LEntidad.csproj.CoreCompileInputs.cache
+D:\BKEFS\LEntidad\obj\Debug\LEntidad.dll
+D:\BKEFS\LEntidad\obj\Debug\LEntidad.pdb
